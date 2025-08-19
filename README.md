@@ -3,7 +3,7 @@
 i'm spencer ~ i collaborate with computers to make dreams come alive. 
 
 <p>
-  i... code, iterate, design, architect, solder, sand and constantly learn.
+  i... code, iterate, design, architect, solder and continuously learn.
 </p>
 
 <p>

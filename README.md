@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="">
   <img src="https://skillicons.dev/icons?i=html,ts,js,nodejs,vue,vitest,react,vite,webflow" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgres,prisma,github,githubactions,cloudflare,postman,deno" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgres,prisma,postman,github,githubactions,cloudflare,deno" />
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,arduino,p5js,d3,blender,unreal,ableton" />
   <span>++ many more...</span>
